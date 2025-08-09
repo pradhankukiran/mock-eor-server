@@ -1,0 +1,3 @@
+mydnspromax.centralindia.cloudapp.azure.com {
+  reverse_proxy 127.0.0.1:3000
+}
