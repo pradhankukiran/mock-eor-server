@@ -24,7 +24,8 @@ const corsOptions = {
     'http://20.193.154.54:3000',      // Azure VM backend
     'http://20.193.154.54:5173',      // Azure VM frontend (if served)
     'http://127.0.0.1:5173',          // Alternative local addresses
-    'http://127.0.0.1:3000'
+    'http://127.0.0.1:3000',
+    'https://mock-eor-server-ui.vercel.app'  // Vercel frontend
   ],
   credentials: true,
   optionsSuccessStatus: 200
