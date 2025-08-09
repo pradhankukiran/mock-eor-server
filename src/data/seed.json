@@ -1,0 +1,102 @@
+[
+  {
+    "country": "US",
+    "employer_tax_rate": 0.112,
+    "benefits_percent": 0.085,
+    "fixed_fees": 360,
+    "probation_months": 3,
+    "currency": "USD",
+    "salary_min": 60000,
+    "salary_max": 180000,
+    "roles": [
+      "Software Engineer",
+      "Senior Software Engineer",
+      "Product Manager",
+      "Data Scientist",
+      "UX Designer",
+      "DevOps Engineer",
+      "Account Executive",
+      "Customer Success Manager"
+    ]
+  },
+  {
+    "country": "GB",
+    "employer_tax_rate": 0.132,
+    "benefits_percent": 0.075,
+    "fixed_fees": 330,
+    "probation_months": 3,
+    "currency": "GBP",
+    "salary_min": 35000,
+    "salary_max": 110000,
+    "roles": [
+      "Software Engineer",
+      "Tech Lead",
+      "Product Manager",
+      "Data Analyst",
+      "UX Researcher",
+      "Site Reliability Engineer",
+      "Finance Analyst",
+      "Sales Manager"
+    ]
+  },
+  {
+    "country": "IN",
+    "employer_tax_rate": 0.175,
+    "benefits_percent": 0.11,
+    "fixed_fees": 200,
+    "probation_months": 6,
+    "currency": "INR",
+    "salary_min": 600000,
+    "salary_max": 3500000,
+    "roles": [
+      "Software Engineer",
+      "Senior Software Engineer",
+      "QA Engineer",
+      "Product Manager",
+      "Data Engineer",
+      "UI Designer",
+      "Customer Support Specialist",
+      "Business Analyst"
+    ]
+  },
+  {
+    "country": "BR",
+    "employer_tax_rate": 0.275,
+    "benefits_percent": 0.12,
+    "fixed_fees": 230,
+    "probation_months": 3,
+    "currency": "BRL",
+    "salary_min": 90000,
+    "salary_max": 420000,
+    "roles": [
+      "Desenvolvedor de Software",
+      "Gerente de Produto",
+      "Cientista de Dados",
+      "Designer UX",
+      "Analista de Suporte",
+      "Engenheiro DevOps",
+      "Executivo de Contas"
+    ]
+  },
+  {
+    "country": "DE",
+    "employer_tax_rate": 0.192,
+    "benefits_percent": 0.095,
+    "fixed_fees": 310,
+    "probation_months": 6,
+    "currency": "EUR",
+    "salary_min": 42000,
+    "salary_max": 120000,
+    "roles": [
+      "Softwareentwickler",
+      "Produktmanager",
+      "Datenanalyst",
+      "UX Designer",
+      "Systemingenieur",
+      "Vertriebsleiter",
+      "Finanzanalyst"
+    ]
+  }
+]
+
+

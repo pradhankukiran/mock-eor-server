@@ -1,0 +1,16 @@
+{
+  "adjustments": {
+    "employer_tax_rate_delta": 0.006,
+    "benefits_percent_delta": 0.004,
+    "fixed_fees_delta": 40,
+    "salary_multiplier": 1.03,
+    "perCountry": {
+      "US": { "fixed_fees_delta": 20 },
+      "DE": { "employer_tax_rate_delta": 0.003 },
+      "IN": { "salary_multiplier": 1.05 },
+      "GB": { "benefits_percent_delta": 0.003 }
+    }
+  }
+}
+
+

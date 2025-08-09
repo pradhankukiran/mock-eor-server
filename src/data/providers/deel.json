@@ -1,0 +1,312 @@
+[
+  {
+    "country": "US",
+    "employer_tax_rate": 0.112,
+    "benefits_percent": 0.085,
+    "fixed_fees": 360,
+    "probation_months": 3,
+    "currency_code": "USD",
+    "currency_symbol": "$",
+    "cost_notes": "FICA, FUTA, healthcare benefits typical in US.",
+    "roles": [
+      {"title": "Software Engineer", "min_salary": 70000, "max_salary": 150000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Builds and maintains applications."},
+      {"title": "Senior Software Engineer", "min_salary": 120000, "max_salary": 190000, "seniority_levels": ["senior", "lead"], "description": "Leads complex features and mentors others."},
+      {"title": "Product Manager", "min_salary": 90000, "max_salary": 170000, "seniority_levels": ["mid", "senior", "lead"], "description": "Owns product roadmap and delivery."},
+      {"title": "Data Scientist", "min_salary": 100000, "max_salary": 185000, "seniority_levels": ["mid", "senior"], "description": "Builds models and insights from data."},
+      {"title": "DevOps Engineer", "min_salary": 95000, "max_salary": 170000, "seniority_levels": ["mid", "senior"], "description": "Maintains CI/CD and infrastructure."},
+      {"title": "UX Designer", "min_salary": 80000, "max_salary": 150000, "seniority_levels": ["junior", "mid", "senior"], "description": "Designs user experiences and interfaces."},
+      {"title": "Account Executive", "min_salary": 70000, "max_salary": 160000, "seniority_levels": ["mid", "senior"], "description": "Drives sales and manages accounts."},
+      {"title": "Customer Success Manager", "min_salary": 65000, "max_salary": 120000, "seniority_levels": ["junior", "mid", "senior"], "description": "Ensures customer outcomes."},
+      {"title": "QA Engineer", "min_salary": 65000, "max_salary": 120000, "seniority_levels": ["junior", "mid", "senior"], "description": "Tests and assures quality."},
+      {"title": "Data Engineer", "min_salary": 95000, "max_salary": 170000, "seniority_levels": ["mid", "senior"], "description": "Builds data pipelines and warehouses."}
+    ]
+  },
+  {
+    "country": "GB",
+    "employer_tax_rate": 0.132,
+    "benefits_percent": 0.075,
+    "fixed_fees": 330,
+    "probation_months": 3,
+    "currency_code": "GBP",
+    "currency_symbol": "£",
+    "cost_notes": "Employer NI contributions and pension auto-enrollment.",
+    "roles": [
+      {"title": "Software Engineer", "min_salary": 35000, "max_salary": 80000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Builds and maintains applications."},
+      {"title": "Tech Lead", "min_salary": 70000, "max_salary": 110000, "seniority_levels": ["senior", "lead"], "description": "Leads engineering projects."},
+      {"title": "Product Manager", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["mid", "senior"], "description": "Owns product roadmap and delivery."},
+      {"title": "Data Analyst", "min_salary": 35000, "max_salary": 70000, "seniority_levels": ["junior", "mid", "senior"], "description": "Analyzes product and business data."},
+      {"title": "SRE", "min_salary": 50000, "max_salary": 100000, "seniority_levels": ["mid", "senior"], "description": "Site reliability and operations."},
+      {"title": "UX Researcher", "min_salary": 40000, "max_salary": 75000, "seniority_levels": ["mid", "senior"], "description": "User research and testing."},
+      {"title": "Finance Analyst", "min_salary": 35000, "max_salary": 65000, "seniority_levels": ["junior", "mid"], "description": "Financial planning and analysis."},
+      {"title": "Sales Manager", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["mid", "senior"], "description": "Manages sales team and targets."},
+      {"title": "QA Engineer", "min_salary": 32000, "max_salary": 65000, "seniority_levels": ["junior", "mid", "senior"], "description": "Assures product quality."},
+      {"title": "Data Engineer", "min_salary": 50000, "max_salary": 100000, "seniority_levels": ["mid", "senior"], "description": "Builds data infrastructure."}
+    ]
+  },
+  {
+    "country": "DE",
+    "employer_tax_rate": 0.192,
+    "benefits_percent": 0.095,
+    "fixed_fees": 310,
+    "probation_months": 6,
+    "currency_code": "EUR",
+    "currency_symbol": "€",
+    "cost_notes": "Social contributions, health insurance, 13th salary uncommon.",
+    "roles": [
+      {"title": "Softwareentwickler", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Entwickelt Softwarelösungen."},
+      {"title": "Produktmanager", "min_salary": 50000, "max_salary": 95000, "seniority_levels": ["mid", "senior"], "description": "Verantwortet Produktstrategie."},
+      {"title": "Datenanalyst", "min_salary": 42000, "max_salary": 80000, "seniority_levels": ["junior", "mid", "senior"], "description": "Analysiert Daten und erstellt Berichte."},
+      {"title": "UX Designer", "min_salary": 45000, "max_salary": 85000, "seniority_levels": ["junior", "mid", "senior"], "description": "Gestaltet Benutzererlebnisse."},
+      {"title": "Systemingenieur", "min_salary": 50000, "max_salary": 95000, "seniority_levels": ["mid", "senior"], "description": "Systemarchitektur und Betrieb."},
+      {"title": "SRE", "min_salary": 55000, "max_salary": 100000, "seniority_levels": ["mid", "senior"], "description": "Site Reliability Engineering."},
+      {"title": "Vertriebsleiter", "min_salary": 45000, "max_salary": 100000, "seniority_levels": ["senior", "lead"], "description": "Leitet Vertriebsteam."},
+      {"title": "Finanzanalyst", "min_salary": 42000, "max_salary": 80000, "seniority_levels": ["mid", "senior"], "description": "Finanzberichte und Forecasts."},
+      {"title": "QA Engineer", "min_salary": 40000, "max_salary": 75000, "seniority_levels": ["junior", "mid", "senior"], "description": "Qualitätssicherung."},
+      {"title": "Data Engineer", "min_salary": 52000, "max_salary": 100000, "seniority_levels": ["mid", "senior"], "description": "Datenpipelines und DWH."}
+    ]
+  },
+  {
+    "country": "IN",
+    "employer_tax_rate": 0.175,
+    "benefits_percent": 0.11,
+    "fixed_fees": 200,
+    "probation_months": 6,
+    "currency_code": "INR",
+    "currency_symbol": "₹",
+    "cost_notes": "PF, gratuity, ESI applicable for certain salaries.",
+    "roles": [
+      {"title": "Software Engineer", "min_salary": 600000, "max_salary": 2000000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Builds applications."},
+      {"title": "Senior Software Engineer", "min_salary": 1800000, "max_salary": 3500000, "seniority_levels": ["senior", "lead"], "description": "Leads complex features."},
+      {"title": "QA Engineer", "min_salary": 500000, "max_salary": 1200000, "seniority_levels": ["junior", "mid", "senior"], "description": "Quality assurance."},
+      {"title": "Product Manager", "min_salary": 1200000, "max_salary": 3000000, "seniority_levels": ["mid", "senior"], "description": "Product delivery."},
+      {"title": "Data Engineer", "min_salary": 1000000, "max_salary": 2800000, "seniority_levels": ["mid", "senior"], "description": "Data pipelines."},
+      {"title": "UI Designer", "min_salary": 700000, "max_salary": 1800000, "seniority_levels": ["junior", "mid", "senior"], "description": "Interface design."},
+      {"title": "Customer Support Specialist", "min_salary": 400000, "max_salary": 900000, "seniority_levels": ["junior", "mid"], "description": "Customer assistance."},
+      {"title": "Business Analyst", "min_salary": 800000, "max_salary": 2000000, "seniority_levels": ["mid", "senior"], "description": "Requirements and analysis."},
+      {"title": "DevOps Engineer", "min_salary": 1000000, "max_salary": 2500000, "seniority_levels": ["mid", "senior"], "description": "CI/CD and cloud."},
+      {"title": "Data Scientist", "min_salary": 1200000, "max_salary": 3000000, "seniority_levels": ["mid", "senior"], "description": "ML models and insights."}
+    ]
+  },
+  {
+    "country": "BR",
+    "employer_tax_rate": 0.275,
+    "benefits_percent": 0.12,
+    "fixed_fees": 230,
+    "probation_months": 3,
+    "currency_code": "BRL",
+    "currency_symbol": "R$",
+    "cost_notes": "13th salary and vacation bonus common.",
+    "roles": [
+      {"title": "Desenvolvedor de Software", "min_salary": 90000, "max_salary": 240000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Desenvolve aplicações."},
+      {"title": "Gerente de Produto", "min_salary": 150000, "max_salary": 360000, "seniority_levels": ["mid", "senior"], "description": "Gerencia roadmap e entrega."},
+      {"title": "Cientista de Dados", "min_salary": 150000, "max_salary": 380000, "seniority_levels": ["mid", "senior"], "description": "Modelos e insights."},
+      {"title": "Designer UX", "min_salary": 100000, "max_salary": 260000, "seniority_levels": ["junior", "mid", "senior"], "description": "Experiência do usuário."},
+      {"title": "Analista de Suporte", "min_salary": 60000, "max_salary": 140000, "seniority_levels": ["junior", "mid"], "description": "Suporte ao cliente."},
+      {"title": "Engenheiro DevOps", "min_salary": 130000, "max_salary": 320000, "seniority_levels": ["mid", "senior"], "description": "Infraestrutura e CI/CD."},
+      {"title": "Executivo de Contas", "min_salary": 120000, "max_salary": 300000, "seniority_levels": ["mid", "senior"], "description": "Vendas e relacionamento."},
+      {"title": "QA Engineer", "min_salary": 80000, "max_salary": 160000, "seniority_levels": ["junior", "mid", "senior"], "description": "Qualidade."},
+      {"title": "Data Engineer", "min_salary": 140000, "max_salary": 320000, "seniority_levels": ["mid", "senior"], "description": "Pipelines de dados."},
+      {"title": "SRE", "min_salary": 150000, "max_salary": 340000, "seniority_levels": ["mid", "senior"], "description": "Confiabilidade de sites."}
+    ]
+  },
+  {
+    "country": "CA",
+    "employer_tax_rate": 0.105,
+    "benefits_percent": 0.08,
+    "fixed_fees": 300,
+    "probation_months": 3,
+    "currency_code": "CAD",
+    "currency_symbol": "$",
+    "cost_notes": "CPP and EI employer contributions vary by province.",
+    "roles": [
+      {"title": "Software Engineer", "min_salary": 60000, "max_salary": 130000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Builds software."},
+      {"title": "Senior Software Engineer", "min_salary": 100000, "max_salary": 160000, "seniority_levels": ["senior", "lead"], "description": "Leads development."},
+      {"title": "Product Manager", "min_salary": 70000, "max_salary": 140000, "seniority_levels": ["mid", "senior"], "description": "Owns roadmap and delivery."},
+      {"title": "Data Scientist", "min_salary": 80000, "max_salary": 150000, "seniority_levels": ["mid", "senior"], "description": "Models and insights."},
+      {"title": "DevOps Engineer", "min_salary": 75000, "max_salary": 140000, "seniority_levels": ["mid", "senior"], "description": "Cloud and CI/CD."},
+      {"title": "UX Designer", "min_salary": 65000, "max_salary": 120000, "seniority_levels": ["junior", "mid", "senior"], "description": "Designs experiences."},
+      {"title": "QA Engineer", "min_salary": 55000, "max_salary": 105000, "seniority_levels": ["junior", "mid", "senior"], "description": "Assures quality."},
+      {"title": "Data Engineer", "min_salary": 80000, "max_salary": 150000, "seniority_levels": ["mid", "senior"], "description": "Builds data platforms."},
+      {"title": "Account Executive", "min_salary": 60000, "max_salary": 130000, "seniority_levels": ["mid", "senior"], "description": "Sales and accounts."},
+      {"title": "Customer Success Manager", "min_salary": 60000, "max_salary": 115000, "seniority_levels": ["junior", "mid", "senior"], "description": "Ensures customer outcomes."}
+    ]
+  },
+  {
+    "country": "MX",
+    "employer_tax_rate": 0.28,
+    "benefits_percent": 0.1,
+    "fixed_fees": 180,
+    "probation_months": 3,
+    "currency_code": "MXN",
+    "currency_symbol": "$",
+    "cost_notes": "IMSS, INFONAVIT employer contributions apply.",
+    "roles": [
+      {"title": "Ingeniero de Software", "min_salary": 300000, "max_salary": 900000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Desarrolla software."},
+      {"title": "Gerente de Producto", "min_salary": 350000, "max_salary": 1000000, "seniority_levels": ["mid", "senior"], "description": "Lidera el roadmap."},
+      {"title": "Científico de Datos", "min_salary": 400000, "max_salary": 1100000, "seniority_levels": ["mid", "senior"], "description": "Modelos y análisis."},
+      {"title": "Ingeniero DevOps", "min_salary": 350000, "max_salary": 900000, "seniority_levels": ["mid", "senior"], "description": "Infraestructura y CI/CD."},
+      {"title": "Diseñador UX", "min_salary": 250000, "max_salary": 750000, "seniority_levels": ["junior", "mid", "senior"], "description": "Experiencia de usuario."},
+      {"title": "Ingeniero QA", "min_salary": 240000, "max_salary": 700000, "seniority_levels": ["junior", "mid", "senior"], "description": "Aseguramiento de calidad."},
+      {"title": "Ingeniero de Datos", "min_salary": 350000, "max_salary": 900000, "seniority_levels": ["mid", "senior"], "description": "Pipelines de datos."},
+      {"title": "SRE", "min_salary": 380000, "max_salary": 950000, "seniority_levels": ["mid", "senior"], "description": "Confiabilidad del sitio."},
+      {"title": "Ejecutivo de Cuentas", "min_salary": 240000, "max_salary": 800000, "seniority_levels": ["mid", "senior"], "description": "Ventas y cuentas."},
+      {"title": "Gerente de Éxito del Cliente", "min_salary": 240000, "max_salary": 700000, "seniority_levels": ["junior", "mid", "senior"], "description": "Éxito del cliente."}
+    ]
+  },
+  {
+    "country": "FR",
+    "employer_tax_rate": 0.45,
+    "benefits_percent": 0.12,
+    "fixed_fees": 320,
+    "probation_months": 4,
+    "currency_code": "EUR",
+    "currency_symbol": "€",
+    "cost_notes": "Employer social charges are significant.",
+    "roles": [
+      {"title": "Ingénieur Logiciel", "min_salary": 38000, "max_salary": 70000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Développe des applications."},
+      {"title": "Chef de Produit", "min_salary": 42000, "max_salary": 80000, "seniority_levels": ["mid", "senior"], "description": "Pilote la stratégie produit."},
+      {"title": "Data Scientist", "min_salary": 45000, "max_salary": 85000, "seniority_levels": ["mid", "senior"], "description": "Modèles et analyses."},
+      {"title": "Ingénieur DevOps", "min_salary": 42000, "max_salary": 80000, "seniority_levels": ["mid", "senior"], "description": "Cloud et CI/CD."},
+      {"title": "Designer UX", "min_salary": 35000, "max_salary": 65000, "seniority_levels": ["junior", "mid", "senior"], "description": "Expérience utilisateur."},
+      {"title": "Ingénieur QA", "min_salary": 32000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior"], "description": "Qualité."},
+      {"title": "Ingénieur Données", "min_salary": 42000, "max_salary": 80000, "seniority_levels": ["mid", "senior"], "description": "Pipelines de données."},
+      {"title": "SRE", "min_salary": 42000, "max_salary": 85000, "seniority_levels": ["mid", "senior"], "description": "Fiabilité."},
+      {"title": "Commercial", "min_salary": 30000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Ventes."},
+      {"title": "CSM", "min_salary": 30000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior"], "description": "Succès client."}
+    ]
+  },
+  {
+    "country": "ES",
+    "employer_tax_rate": 0.3,
+    "benefits_percent": 0.1,
+    "fixed_fees": 260,
+    "probation_months": 6,
+    "currency_code": "EUR",
+    "currency_symbol": "€",
+    "cost_notes": "Employer social security contributions apply.",
+    "roles": [
+      {"title": "Ingeniero de Software", "min_salary": 28000, "max_salary": 55000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Desarrolla aplicaciones."},
+      {"title": "Product Manager", "min_salary": 32000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Estrategia y ejecución."},
+      {"title": "Data Scientist", "min_salary": 35000, "max_salary": 70000, "seniority_levels": ["mid", "senior"], "description": "Modelos y datos."},
+      {"title": "Ingeniero DevOps", "min_salary": 32000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Cloud y CI/CD."},
+      {"title": "Diseñador UX", "min_salary": 26000, "max_salary": 50000, "seniority_levels": ["junior", "mid", "senior"], "description": "Experiencia de usuario."},
+      {"title": "Ingeniero QA", "min_salary": 24000, "max_salary": 45000, "seniority_levels": ["junior", "mid", "senior"], "description": "Calidad."},
+      {"title": "Ingeniero de Datos", "min_salary": 32000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Pipelines de datos."},
+      {"title": "SRE", "min_salary": 32000, "max_salary": 70000, "seniority_levels": ["mid", "senior"], "description": "Fiabilidad."},
+      {"title": "Comercial", "min_salary": 22000, "max_salary": 45000, "seniority_levels": ["mid", "senior"], "description": "Ventas."},
+      {"title": "CSM", "min_salary": 22000, "max_salary": 42000, "seniority_levels": ["junior", "mid", "senior"], "description": "Éxito del cliente."}
+    ]
+  },
+  {
+    "country": "IT",
+    "employer_tax_rate": 0.31,
+    "benefits_percent": 0.09,
+    "fixed_fees": 280,
+    "probation_months": 6,
+    "currency_code": "EUR",
+    "currency_symbol": "€",
+    "cost_notes": "INPS and other employer contributions.",
+    "roles": [
+      {"title": "Ingegnere del Software", "min_salary": 30000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Sviluppa software."},
+      {"title": "Product Manager", "min_salary": 35000, "max_salary": 70000, "seniority_levels": ["mid", "senior"], "description": "Strategia prodotto."},
+      {"title": "Data Scientist", "min_salary": 38000, "max_salary": 75000, "seniority_levels": ["mid", "senior"], "description": "Modelli e dati."},
+      {"title": "Ingegnere DevOps", "min_salary": 33000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Cloud e CI/CD."},
+      {"title": "UX Designer", "min_salary": 27000, "max_salary": 50000, "seniority_levels": ["junior", "mid", "senior"], "description": "Esperienza utente."},
+      {"title": "Ingegnere QA", "min_salary": 25000, "max_salary": 45000, "seniority_levels": ["junior", "mid", "senior"], "description": "Qualità."},
+      {"title": "Ingegnere Dati", "min_salary": 33000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Pipelines di dati."},
+      {"title": "SRE", "min_salary": 33000, "max_salary": 70000, "seniority_levels": ["mid", "senior"], "description": "Affidabilità."},
+      {"title": "Commerciale", "min_salary": 23000, "max_salary": 45000, "seniority_levels": ["mid", "senior"], "description": "Vendite."},
+      {"title": "CSM", "min_salary": 23000, "max_salary": 42000, "seniority_levels": ["junior", "mid", "senior"], "description": "Successo cliente."}
+    ]
+  },
+  {
+    "country": "NL",
+    "employer_tax_rate": 0.2,
+    "benefits_percent": 0.08,
+    "fixed_fees": 290,
+    "probation_months": 2,
+    "currency_code": "EUR",
+    "currency_symbol": "€",
+    "cost_notes": "Holiday allowance customary.",
+    "roles": [
+      {"title": "Software Engineer", "min_salary": 40000, "max_salary": 80000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Builds software."},
+      {"title": "Product Manager", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["mid", "senior"], "description": "Product delivery."},
+      {"title": "Data Scientist", "min_salary": 48000, "max_salary": 95000, "seniority_levels": ["mid", "senior"], "description": "Models and insights."},
+      {"title": "QA Engineer", "min_salary": 32000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior"], "description": "Quality assurance."},
+      {"title": "UX Designer", "min_salary": 35000, "max_salary": 65000, "seniority_levels": ["junior", "mid", "senior"], "description": "Experience design."},
+      {"title": "DevOps Engineer", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["mid", "senior"], "description": "Cloud and CI/CD."},
+      {"title": "SRE", "min_salary": 45000, "max_salary": 95000, "seniority_levels": ["mid", "senior"], "description": "Reliability."},
+      {"title": "Account Executive", "min_salary": 35000, "max_salary": 70000, "seniority_levels": ["mid", "senior"], "description": "Sales."},
+      {"title": "Customer Success Manager", "min_salary": 32000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior"], "description": "Customer outcomes."},
+      {"title": "Business Analyst", "min_salary": 35000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Requirements."}
+    ]
+  },
+  {
+    "country": "SE",
+    "employer_tax_rate": 0.3142,
+    "benefits_percent": 0.06,
+    "fixed_fees": 300,
+    "probation_months": 6,
+    "currency_code": "SEK",
+    "currency_symbol": "kr",
+    "cost_notes": "High employer social fees.",
+    "roles": [
+      {"title": "Mjukvaruingenjör", "min_salary": 420000, "max_salary": 780000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Utvecklar mjukvara."},
+      {"title": "Produktchef", "min_salary": 480000, "max_salary": 900000, "seniority_levels": ["mid", "senior"], "description": "Produktstrategi."},
+      {"title": "Data Scientist", "min_salary": 500000, "max_salary": 950000, "seniority_levels": ["mid", "senior"], "description": "Modeller och data."},
+      {"title": "QA Engineer", "min_salary": 360000, "max_salary": 660000, "seniority_levels": ["junior", "mid", "senior"], "description": "Kvalitet."},
+      {"title": "UX Designer", "min_salary": 380000, "max_salary": 700000, "seniority_levels": ["junior", "mid", "senior"], "description": "Användarupplevelse."},
+      {"title": "DevOps Engineer", "min_salary": 480000, "max_salary": 900000, "seniority_levels": ["mid", "senior"], "description": "Moln och CI/CD."},
+      {"title": "SRE", "min_salary": 480000, "max_salary": 950000, "seniority_levels": ["mid", "senior"], "description": "Tillförlitlighet."},
+      {"title": "Account Executive", "min_salary": 360000, "max_salary": 700000, "seniority_levels": ["mid", "senior"], "description": "Försäljning."},
+      {"title": "Customer Success Manager", "min_salary": 360000, "max_salary": 660000, "seniority_levels": ["junior", "mid", "senior"], "description": "Kundframgång."},
+      {"title": "Business Analyst", "min_salary": 380000, "max_salary": 700000, "seniority_levels": ["mid", "senior"], "description": "Krav."}
+    ]
+  },
+  {
+    "country": "NO",
+    "employer_tax_rate": 0.141,
+    "benefits_percent": 0.06,
+    "fixed_fees": 320,
+    "probation_months": 6,
+    "currency_code": "NOK",
+    "currency_symbol": "kr",
+    "cost_notes": "Employer social contributions vary by region.",
+    "roles": [
+      {"title": "Programvareingeniør", "min_salary": 500000, "max_salary": 950000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Utvikler programvare."},
+      {"title": "Produktleder", "min_salary": 550000, "max_salary": 1000000, "seniority_levels": ["mid", "senior"], "description": "Produktstrategi."},
+      {"title": "Data Scientist", "min_salary": 600000, "max_salary": 1100000, "seniority_levels": ["mid", "senior"], "description": "Modeller og data."},
+      {"title": "QA Engineer", "min_salary": 400000, "max_salary": 750000, "seniority_levels": ["junior", "mid", "senior"], "description": "Kvalitet."},
+      {"title": "UX Designer", "min_salary": 420000, "max_salary": 800000, "seniority_levels": ["junior", "mid", "senior"], "description": "Brukeropplevelse."},
+      {"title": "DevOps Engineer", "min_salary": 550000, "max_salary": 1000000, "seniority_levels": ["mid", "senior"], "description": "Sky og CI/CD."},
+      {"title": "SRE", "min_salary": 550000, "max_salary": 1050000, "seniority_levels": ["mid", "senior"], "description": "Pålitelighet."},
+      {"title": "Account Executive", "min_salary": 420000, "max_salary": 800000, "seniority_levels": ["mid", "senior"], "description": "Salg."},
+      {"title": "Customer Success Manager", "min_salary": 420000, "max_salary": 750000, "seniority_levels": ["junior", "mid", "senior"], "description": "Kundesuksess."},
+      {"title": "Business Analyst", "min_salary": 450000, "max_salary": 850000, "seniority_levels": ["mid", "senior"], "description": "Krav."}
+    ]
+  },
+  {
+    "country": "IE",
+    "employer_tax_rate": 0.113,
+    "benefits_percent": 0.07,
+    "fixed_fees": 280,
+    "probation_months": 6,
+    "currency_code": "EUR",
+    "currency_symbol": "€",
+    "cost_notes": "PRSI employer contribution.",
+    "roles": [
+      {"title": "Software Engineer", "min_salary": 40000, "max_salary": 85000, "seniority_levels": ["junior", "mid", "senior", "lead"], "description": "Builds software."},
+      {"title": "Product Manager", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["mid", "senior"], "description": "Product delivery."},
+      {"title": "Data Scientist", "min_salary": 48000, "max_salary": 95000, "seniority_levels": ["mid", "senior"], "description": "Models and insights."},
+      {"title": "QA Engineer", "min_salary": 32000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior"], "description": "Quality assurance."},
+      {"title": "UX Designer", "min_salary": 35000, "max_salary": 65000, "seniority_levels": ["junior", "mid", "senior"], "description": "Experience design."},
+      {"title": "DevOps Engineer", "min_salary": 45000, "max_salary": 90000, "seniority_levels": ["mid", "senior"], "description": "Cloud and CI/CD."},
+      {"title": "SRE", "min_salary": 45000, "max_salary": 95000, "seniority_levels": ["mid", "senior"], "description": "Reliability."},
+      {"title": "Account Executive", "min_salary": 35000, "max_salary": 70000, "seniority_levels": ["mid", "senior"], "description": "Sales."},
+      {"title": "Customer Success Manager", "min_salary": 32000, "max_salary": 60000, "seniority_levels": ["junior", "mid", "senior"], "description": "Customer outcomes."},
+      {"title": "Business Analyst", "min_salary": 35000, "max_salary": 65000, "seniority_levels": ["mid", "senior"], "description": "Requirements."}
+    ]
+  }
+]
+
+
